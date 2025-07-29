@@ -10,7 +10,7 @@ Este projeto é uma aplicação simples em PHP que conta o número de caracteres
 
 1. Clone o repositório:
    ```
-   git clone <URL do repositório>
+   git clone https://github.com/Angelo-Miguel/Contador-de-Caracteres.git
    ```
 
 2. Abra o arquivo `index.php` em um servidor web que suporte PHP.
